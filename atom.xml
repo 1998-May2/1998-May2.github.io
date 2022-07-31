@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://1998-may2.github.io</id>
+    <title>May2</title>
+    <updated>2022-07-31T10:32:29.301Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://1998-may2.github.io"/>
+    <link rel="self" href="https://1998-may2.github.io/atom.xml"/>
+    <subtitle>过好每一天</subtitle>
+    <logo>https://1998-may2.github.io/images/avatar.png</logo>
+    <icon>https://1998-may2.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, May2</rights>
+    <entry>
+        <title type="html"><![CDATA[食谱]]></title>
+        <id>https://1998-may2.github.io/post/shi-pu/</id>
+        <link href="https://1998-may2.github.io/post/shi-pu/">
+        </link>
+        <updated>2022-07-29T14:53:53.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E5%A6%82%E6%9E%9C%E7%BB%99%E4%BD%A0%E4%B8%80%E7%A2%97%E7%B1%B3%E9%A5%AD%E4%BD%A0%E4%BC%9A%E9%80%89%E6%8B%A9%E5%93%AA%E4%B8%AA%E8%8F%9C">如果给你一碗米饭，你会选择哪个菜？</a></li>
+<li><a href="#%E5%8A%9D%E6%88%91%E5%A6%88%E6%91%86%E6%91%8A%E7%9A%84999%E5%A4%A9%E6%88%91%E5%A6%88%E5%81%9A%E7%9A%84%E5%B0%8F%E5%90%83%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A5%BD%E5%90%83%E4%BA%86">劝我妈摆摊的999天！我妈做的小吃太太太好吃了</a></li>
+<li><a href="#%E4%B8%80%E5%BC%A0%E5%9B%BE%E6%95%99%E4%BD%A0%E5%81%9A%E4%B8%80%E9%81%93%E8%8F%9C">一张图教你做一道菜</a></li>
+<li><a href="#%E5%9B%A0%E4%B8%BA%E5%81%9A%E9%9D%A2%E6%9D%A1%E6%88%91%E5%A6%88%E5%9C%A8%E5%B0%8F%E5%8C%BA%E5%87%BA%E5%90%8D%E4%BA%86%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A5%BD%E5%90%83%E4%BA%86">因为做面条，我妈在小区出名了！太太太好吃了！</a></li>
+<li><a href="#%E7%A7%92%E6%9D%80%E8%B7%AF%E8%BE%B9%E6%91%8A%E7%9A%84%E8%A1%97%E8%BE%B9%E5%B0%8F%E5%90%83%E5%81%9A%E6%B3%95%E5%9C%A8%E5%AE%B6%E5%AE%9E%E7%8E%B0%E8%B7%AF%E8%BE%B9%E6%91%8A%E8%87%AA%E7%94%B1%E6%9C%8B%E5%8F%8B%E5%90%83%E4%BA%86%E9%83%BD%E8%AE%A9%E6%88%91%E5%8E%9F%E5%9C%B0%E6%91%86%E6%91%8A%E7%9C%9F%E7%9A%84%E8%B6%85%E5%A5%BD%E5%90%83%E5%91%A6%E5%96%9C%E6%AC%A2%E7%9A%84%E8%AF%95%E5%81%9A%E8%B5%B7%E6%9D%A5%E5%90%A7">秒杀路边摊的街边小吃做法！在家实现路边摊自由！朋友吃了都让我原地摆摊！真的超好吃呦！喜欢的试做起来吧！</a></li>
+<li><a href="#%E5%85%AD%E6%AC%BE%E8%B6%85%E4%B8%8B%E9%A5%AD%E5%AE%B6%E5%B8%B8%E8%8F%9C%E5%90%88%E9%9B%86%E5%B7%A8%E7%AE%80%E5%8D%95%E9%9B%B6%E5%A4%B1%E8%B4%A5-%E5%A5%BD%E5%90%83%E5%88%B0%E7%88%86%E7%9A%84%E5%AE%B6%E5%B8%B8%E8%8F%9C%E5%90%88%E9%9B%86%E5%B7%A8%E7%AE%80%E5%8D%95%E5%B7%A8%E4%B8%8B%E9%A5%AD%E5%96%9C%E6%AC%A2%E7%9A%84%E6%94%B6%E8%97%8F%E8%B5%B7%E6%9D%A5%E6%85%A2%E6%85%A2%E5%81%9A%E5%90%A7">六款超下饭家常菜合集巨简单零失败。好吃到爆的家常菜合集，巨简单巨下饭，喜欢的收藏起来慢慢做吧</a></li>
+<li><a href="#%E4%BB%8A%E5%A4%A9%E5%A6%88%E5%A6%88%E5%81%9A%E4%BA%86%E6%88%91%E6%9C%80%E7%88%B1%E5%90%83%E7%9A%84%E9%B8%A1%E7%BF%85%E5%92%8C%E8%80%81%E7%88%B8%E6%9C%80%E7%88%B1%E5%90%83%E8%82%A5%E8%82%A0%E8%BF%99%E5%9B%9B%E9%81%93%E8%8F%9C%E6%9C%89%E6%B2%A1%E6%9C%89%E4%BD%A0%E7%9A%84%E6%9C%80%E7%88%B1">今天妈妈做了我最爱吃的鸡翅和老爸最爱吃肥肠，这四道菜有没有你的最爱？</a></li>
+<li><a href="#%E7%A0%B4%E5%A3%81%E6%9C%BA%E7%B1%B3%E7%B3%8A%E8%B1%86%E6%B5%86%E9%85%8D%E6%96%B9%E5%90%88%E9%9B%86">破壁机米糊豆浆配方合集</a>
+<ul>
+<li><a href="#%E5%8D%97%E7%93%9C%E7%87%95%E9%BA%A6%E7%BE%B9">南瓜燕麦羹</a></li>
+<li><a href="#%E7%8E%89%E7%B1%B3%E6%A0%B8%E6%A1%83%E9%9C%B2">玉米核桃露</a></li>
+<li><a href="#%E7%BA%A2%E6%9E%A3%E5%91%B3%E8%B1%86%E6%B5%86">红枣味豆浆</a></li>
+<li><a href="#%E5%AE%AB%E5%BB%B7%E8%8A%B1%E7%94%9F%E9%85%AA">宫廷花生酪🥜</a></li>
+<li><a href="#%E8%8A%B1%E7%94%9F%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A">花生黑芝麻糊</a></li>
+<li><a href="#%E9%A6%99%E8%8A%8B%E7%BA%A2%E8%B1%86%E6%B2%99">香芋红豆沙</a></li>
+<li><a href="#%E5%A4%8F%E6%97%A5%E4%B8%89%E8%B1%86%E9%A5%AE">夏日三豆饮</a></li>
+<li><a href="#%E7%B4%AB%E8%96%AF%E7%BA%A2%E8%B1%86%E5%A5%B6">紫薯红豆奶</a></li>
+<li><a href="#%E7%BB%BF%E8%B1%86%E9%93%B6%E8%80%B3%E7%BE%B9">绿豆银耳羹</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<h1 id="如果给你一碗米饭你会选择哪个菜">如果给你一碗米饭，你会选择哪个菜？</h1>
+<p>豆芽炒粉条、宫保鸡丁、醋酸土豆丝、糖醋排骨</p>
+<p>https://www.douyin.com/note/7116366446703185192</p>
+<h1 id="劝我妈摆摊的999天我妈做的小吃太太太好吃了">劝我妈摆摊的999天！我妈做的小吃太太太好吃了</h1>
+<p>照烧鸡腿、酸辣凉拌面、蒜香黄油虾、土豆鸡爪</p>
+<p>https://www.douyin.com/note/7113448101309926671</p>
+<h1 id="一张图教你做一道菜">一张图教你做一道菜</h1>
+<p>酸菜鱼、油焖大虾、麻辣香锅、辣子鸡翅、小炒鱿鱼、红烧鱼块</p>
+<p>https://www.douyin.com/note/7114954419027856643</p>
+<h1 id="因为做面条我妈在小区出名了太太太好吃了">因为做面条，我妈在小区出名了！太太太好吃了！</h1>
+<p>番茄土豆焖面、油泼面、麻辣烫火锅面、麻酱肥牛拌面</p>
+<p>https://www.douyin.com/note/7105011853268372770</p>
+<h1 id="秒杀路边摊的街边小吃做法在家实现路边摊自由朋友吃了都让我原地摆摊真的超好吃呦喜欢的试做起来吧">秒杀路边摊的街边小吃做法！在家实现路边摊自由！朋友吃了都让我原地摆摊！真的超好吃呦！喜欢的试做起来吧！</h1>
+<p>炸火腿肠、麻辣小龙虾、脆皮豆腐、麻辣拌、狼牙土豆、孜然豆皮</p>
+<p>https://www.douyin.com/note/7120747272060603688</p>
+<h1 id="六款超下饭家常菜合集巨简单零失败-好吃到爆的家常菜合集巨简单巨下饭喜欢的收藏起来慢慢做吧">六款超下饭家常菜合集巨简单零失败。好吃到爆的家常菜合集，巨简单巨下饭，喜欢的收藏起来慢慢做吧</h1>
+<p>https://www.douyin.com/note/7123949896935214343</p>
+<h1 id="今天妈妈做了我最爱吃的鸡翅和老爸最爱吃肥肠这四道菜有没有你的最爱">今天妈妈做了我最爱吃的鸡翅和老爸最爱吃肥肠，这四道菜有没有你的最爱？</h1>
+<p>https://www.douyin.com/note/7118715875955363072</p>
+<h1 id="破壁机米糊豆浆配方合集">破壁机米糊豆浆配方合集</h1>
+<h2 id="南瓜燕麦羹">南瓜燕麦羹</h2>
+<p>80g南瓜 25g糯米 10g燕麦 400ml水<br>
+✨香甜软糯又丝滑 巨好喝！</p>
+<h2 id="玉米核桃露">玉米核桃露</h2>
+<p>80g玉米 10g核桃 10g小米 500ml水 150ml牛奶<br>
+✨清甜的玉米搭配核桃 安神又yi智</p>
+<h2 id="红枣味豆浆">红枣味豆浆</h2>
+<p>30g黄豆 20g大米 20g红枣 500ml水<br>
+✨甜豆浆yyds 好喝！！</p>
+<h2 id="宫廷花生酪">宫廷花生酪🥜</h2>
+<p>70g去皮花生 20g糯米 500ml水 200ml牛奶<br>
+✨娘娘同款 香醇浓郁～</p>
+<h2 id="花生黑芝麻糊">花生黑芝麻糊</h2>
+<p>30g黑芝麻 3颗红枣 10g花生 15g糯米 400ml水<br>
+✨咱就是说秃星人多喝！</p>
+<h2 id="香芋红豆沙">香芋红豆沙</h2>
+<p>30g红豆 100g芋头 500ml水 200ml牛奶<br>
+✨绵密丝滑 补🩸益气</p>
+<h2 id="夏日三豆饮">夏日三豆饮</h2>
+<p>红豆 黑豆 赤小豆各15g 600ml水<br>
+✨三伏天多喝喝 清清热降降火🔥</p>
+<h2 id="紫薯红豆奶">紫薯红豆奶</h2>
+<p>80g紫薯 10g红豆 15g燕麦 400ml水 200ml牛奶<br>
+✨又香又丝滑 润肠通便</p>
+<h2 id="绿豆银耳羹">绿豆银耳羹</h2>
+<p>40绿豆 15g大米 15g银耳<br>
+✨清凉解暑 适合夏天🍃<br>
+✅做法：<br>
+食材洗净放入破壁机，加400-600ml水打成糊，根据自己喜欢的甜度加入冰糖搅匀即可！需要加牛奶的放至温热再加喔。</p>
+<p>https://www.douyin.com/note/7122669312866831620</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坎公骑 阵容配队]]></title>
+        <id>https://1998-may2.github.io/post/kan-gong-qi-zhen-rong-pei-dui/</id>
+        <link href="https://1998-may2.github.io/post/kan-gong-qi-zhen-rong-pei-dui/">
+        </link>
+        <updated>2022-07-24T14:25:07.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E5%85%AC%E4%BC%9A%E6%88%98">公会战</a>
+<ul>
+<li><a href="#%E5%9C%9F%E9%98%9F">土队</a></li>
+<li><a href="#%E6%9A%97%E9%98%9F">暗队</a></li>
+<li><a href="#%E6%B0%B4%E9%98%9F">水队</a></li>
+<li><a href="#%E5%85%89%E9%98%9F">光队</a></li>
+<li><a href="#%E7%81%AB%E9%98%9F">火队</a></li>
+<li><a href="#%E8%99%9A%E9%98%9F">虚队</a></li>
+</ul>
+</li>
+<li><a href="#%E8%A3%85%E5%A4%87">装备</a></li>
+</ul>
+</p>
+<h1 id="公会战">公会战</h1>
+<h2 id="土队">土队</h2>
+<p><code>梅丽尔</code>+蒂尼亚+鲁+卡麦尔</p>
+<p>梅丽尔、芭莉、鲁（后期换：卡麦尔）、蒂尼亚<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<h2 id="暗队">暗队</h2>
+<p>莉莉丝-贝丝-瑞皮娜-阿拉贝尔</p>
+<h2 id="水队">水队</h2>
+<p>佳岚-卡麦尔-可可-蒂尼亚</p>
+<p>佳岚、奈莉、罗茜、维罗妮卡<sup class="footnote-ref"><a href="#fn1" id="fnref1:1">[1:1]</a></sup></p>
+<h2 id="光队">光队</h2>
+<p>Mk.99-奈莉-加百列-埃莉诺</p>
+<h2 id="火队">火队</h2>
+<p><code>赤雪</code>、普利特维采、辛缇拉、琳<sup class="footnote-ref"><a href="#fn1" id="fnref1:2">[1:2]</a></sup></p>
+<h2 id="虚队">虚队</h2>
+<p>未来骑士、奈莉、偶像伊娃、罗茜<sup class="footnote-ref"><a href="#fn1" id="fnref1:3">[1:3]</a></sup></p>
+<h1 id="装备">装备</h1>
+<p>牛头人项链（角斗场商店兑换，600一个）</p>
+<p>神枪手耳环（Bingo活动奖励）</p>
+<p>进化满星，洗满<code>攻击</code>和<code>技能伤害</code></p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>属性配队参考视频1：<a href="https://www.bilibili.com/video/BV1sP4y1a7bh">【坎公骑冠剑】组队buff优先等级，各属性队主流标准公会战阵容</a> <a href="#fnref1" class="footnote-backref">↩︎</a> <a href="#fnref1:1" class="footnote-backref">↩︎</a> <a href="#fnref1:2" class="footnote-backref">↩︎</a> <a href="#fnref1:3" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows11]]></title>
+        <id>https://1998-may2.github.io/post/windows11/</id>
+        <link href="https://1998-may2.github.io/post/windows11/">
+        </link>
+        <updated>2022-07-14T07:52:56.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E6%9B%B4%E6%94%B9%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95">更改右键菜单</a></li>
+<li><a href="#%E6%81%A2%E5%A4%8D%E5%8F%B3%E9%94%AE%E8%8F%9C%E5%8D%95">恢复右键菜单</a></li>
+</ul>
+</p>
+<blockquote>
+<p>参考：https://mp.weixin.qq.com/s/JZQ8hr_pSQLBbrcTdMyS0Q</p>
+</blockquote>
+<h1 id="更改右键菜单">更改右键菜单</h1>
+<p>右键「开始菜单」（快捷键 Windows + X）找到「Windows 终端（管理员）」</p>
+<pre><code>reg.exe add &quot;HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32&quot; /f /ve
+</code></pre>
+<p>重启电脑</p>
+<h1 id="恢复右键菜单">恢复右键菜单</h1>
+<pre><code>reg.exe delete &quot;HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32&quot; /va /f
+</code></pre>
+<p>重启电脑</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浪姐3 第三季]]></title>
+        <id>https://1998-may2.github.io/post/lang-jie-3-san-gong/</id>
+        <link href="https://1998-may2.github.io/post/lang-jie-3-san-gong/">
+        </link>
+        <updated>2022-07-04T08:16:24.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="第五次公演">第五次公演</h1>
+<p>《龙吟》一般般<br>
+《永远都会在》很燃，Live House<br>
+《有吗炒面》舞台很不错<br>
+《Senorita》好看又好听<br>
+《给所有知道我名字的人》挺好听的<br>
+《真的爱你》经典<br>
+《Dangerous Women》好听<br>
+《大眠》《那年夏天宁静的海》《当你》混搭的，好！<br>
+《但求疼》好！</p>
+<h1 id="第四次公演">第四次公演</h1>
+<p>《梦不落雨林》还不错！<br>
+《YOUNG》一般般……歌曲总的来说好像还行，燃但不炸<br>
+《信自己》好听好听！编曲编的也不错，算是第三季里改编得很不错的一首<br>
+《野蛮生长》一般般<code>拉票很有趣</code><br>
+《恼人的秋风》好看……观感Max<code>拉票：亲爱的妹陀帅锅</code><br>
+《你》好看又好听！！！<br>
+《你的样子》好听Max<br>
+《孤独颂歌》舞台观感Max</p>
+<h1 id="第三次公演">第三次公演</h1>
+<p>《星星点灯》最开始的那些还行，除了Rap应该都还好，改词倒是没注意<br>
+《11》歌曲听着还行，其他的无了<br>
+《佳人》歌曲和舞台呈现都不错<br>
+《无名的人》纯唱舞台，很不错了<br>
+《玉》不错不错不错<br>
+《孤勇者》幸好我就只听这一次<br>
+《Stronger》挺不错的，不过静姐唱错了，确实是失误</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下肢力量训练]]></title>
+        <id>https://1998-may2.github.io/post/xia-zhi-li-liang-xun-lian/</id>
+        <link href="https://1998-may2.github.io/post/xia-zhi-li-liang-xun-lian/">
+        </link>
+        <updated>2022-07-01T10:14:02.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E9%9D%A0%E5%A2%99%E8%B9%B2">靠墙蹲</a></li>
+<li><a href="#%E6%B7%B1%E8%B9%B2">深蹲</a></li>
+<li><a href="#%E5%8D%95%E8%85%BF%E6%B7%B1%E8%B9%B2">单腿深蹲</a></li>
+<li><a href="#%E5%8D%95%E8%85%BF%E5%9D%90%E8%B5%B7">单腿坐起</a></li>
+</ul>
+</p>
+<h1 id="靠墙蹲">靠墙蹲</h1>
+<p>靠着墙，缓缓向下，使地面与膝盖平行，大腿与小腿成90度直角</p>
+<p>起的时候，靠着墙起，不容易伤</p>
+<p>2-3分钟一组×4次</p>
+<h1 id="深蹲">深蹲</h1>
+<p>双脚与肩同宽，蹲下时臀部收紧，起身时向上看→会不自觉直腰<code>不容易伤到腰</code></p>
+<p>10个一组×4次</p>
+<h1 id="单腿深蹲">单腿深蹲</h1>
+<p>一个腿搭在高处，蹲下时，脚与地面成90度</p>
+<p>12个一组×4次</p>
+<h1 id="单腿坐起">单腿坐起</h1>
+<p>双腿与肩同宽，单腿蹲下，在触碰到椅子后站起</p>
+<p>12个一组×4次</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小肚十四天变小挑战]]></title>
+        <id>https://1998-may2.github.io/post/14-tian/</id>
+        <link href="https://1998-may2.github.io/post/14-tian/">
+        </link>
+        <updated>2022-06-30T13:21:46.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E7%83%AD%E8%BA%AB%E8%BF%90%E5%8A%A8">热身运动</a>
+<ul>
+<li><a href="#%E9%AB%98%E6%8A%AC%E8%85%BF">高抬腿</a></li>
+<li><a href="#%E5%BC%80%E5%90%88%E8%B7%B3">开合跳</a></li>
+<li><a href="#%E4%BF%AF%E8%BA%AB%E6%8B%B3%E5%87%BB">俯身拳击</a></li>
+<li><a href="#%E8%A7%A6%E7%A2%B0%E8%84%9A%E5%B0%96">触碰脚尖</a></li>
+<li><a href="#%E6%8B%B3%E5%87%BB%E5%B0%8F%E7%A2%8E%E6%AD%A5">拳击小碎步</a></li>
+</ul>
+</li>
+<li><a href="#%E6%AD%A3%E5%BC%8F%E8%BF%90%E5%8A%A8">正式运动</a>
+<ul>
+<li><a href="#v-%E5%AD%97%E7%9B%B4%E8%85%BF%E6%94%B6%E8%85%B9">V 字直腿收腹</a></li>
+<li><a href="#%E4%BB%B0%E5%8D%A7%E6%8A%AC%E8%85%BF">仰卧抬腿</a></li>
+<li><a href="#%E4%BB%B0%E5%8D%A7%E6%94%B6%E8%86%9D">仰卧收膝</a></li>
+<li><a href="#%E8%BA%AF%E5%B9%B2%E8%BD%AC%E4%BD%93%E5%BC%8F">躯干转体式</a></li>
+<li><a href="#%E4%BB%B0%E5%8D%A7%E6%94%B6%E8%86%9D-2">仰卧收膝</a></li>
+<li><a href="#%E5%86%85%E4%BE%A7%E6%91%B8%E8%86%9D">内侧摸膝</a></li>
+<li><a href="#%E5%B9%B3%E6%9D%BF%E6%94%AF%E6%92%9145%E7%A7%92">平板支撑（45秒）</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<blockquote>
+<p>给你们推荐一个效果反馈很好的的#小肚十四天变小挑战# ！！伦敦哥的十四天挑战很多人参加打卡并且都有了变化！想要大肚变小肚，小肚变平坦的姐妹也可以来打卡试试！！包括了热身和正式训练两部分，做的时候记得收紧腹部核心！体脂高的姐妹要配合有氧运动！饮食也要控制下哦！<a href="https://weibo.com/6655635581/Lzo1lp43P">https://weibo.com/6655635581/Lzo1lp43P</a><br>
+动作名词参考：<a href="https://www.5ifit.com/news/20155.html">https://www.5ifit.com/news/20155.html</a>、<a href="https://zhuanlan.zhihu.com/p/111341101">https://zhuanlan.zhihu.com/p/111341101</a>、<a href="https://zhuanlan.zhihu.com/p/125040412">https://zhuanlan.zhihu.com/p/125040412</a>、<a href="https://zhuanlan.zhihu.com/p/145254243">https://zhuanlan.zhihu.com/p/145254243</a>、<a href="https://baijiahao.baidu.com/s?id=1596641924549801307">https://baijiahao.baidu.com/s?id=1596641924549801307</a></p>
+</blockquote>
+<h1 id="热身运动">热身运动</h1>
+<h2 id="高抬腿">高抬腿</h2>
+<h2 id="开合跳">开合跳</h2>
+<h2 id="俯身拳击">俯身拳击</h2>
+<h2 id="触碰脚尖">触碰脚尖</h2>
+<h2 id="拳击小碎步">拳击小碎步</h2>
+<h1 id="正式运动">正式运动</h1>
+<h2 id="v-字直腿收腹">V 字直腿收腹</h2>
+<p>双手撑地，大腿向腹部收，腹部用力和大腿贴合</p>
+<h2 id="仰卧抬腿">仰卧抬腿</h2>
+<p>躺下，双手在臀部，双腿收缩与地面成90度→向上伸直→缓缓往外放下<code>双脚不能碰到地面</code></p>
+<h2 id="仰卧收膝">仰卧收膝</h2>
+<p>侧躺，躺着一侧的手脚保持不动，另一侧肘部要碰到同侧的膝盖</p>
+<h2 id="躯干转体式">躯干转体式</h2>
+<p>双手握住，双脚撑地，用腹部的力量引体向上，缓缓躺下（可一边转动腹部一边躺下）</p>
+<h2 id="仰卧收膝-2">仰卧收膝</h2>
+<p>侧躺，躺着的一侧保持不动，另一侧大腿勾起与手臂贴合</p>
+<h2 id="内侧摸膝">内侧摸膝</h2>
+<p>躺下，双脚撑地，仰卧起来双手做抱腿动作穿过大腿</p>
+<h2 id="平板支撑45秒">平板支撑（45秒）</h2>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[综艺]]></title>
+        <id>https://1998-may2.github.io/post/zong-yi/</id>
+        <link href="https://1998-may2.github.io/post/zong-yi/">
+        </link>
+        <updated>2022-06-29T14:30:45.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="乘风破浪的姐姐">乘风破浪的姐姐</h1>
+<p><a href="https://www.mgtv.com/h/338497.html">https://www.mgtv.com/h/338497.html</a></p>
+<h1 id="乘风破浪的姐姐-第二季">乘风破浪的姐姐 第二季</h1>
+<p><a href="https://www.mgtv.com/h/354045.html">https://www.mgtv.com/h/354045.html</a></p>
+<h1 id="乘风破浪-第三季">乘风破浪 第三季</h1>
+<p><a href="https://www.mgtv.com/h/446003.html">https://www.mgtv.com/h/446003.html</a></p>
+<h1 id="突袭训练室">突袭训练室</h1>
+<p><a href="https://www.mgtv.com/h/448901.html">https://www.mgtv.com/h/448901.html</a></p>
+<h1 id="乘风破浪3-舞台纯享版">乘风破浪3 舞台纯享版</h1>
+<p><a href="https://www.mgtv.com/h/448758.html">https://www.mgtv.com/h/448758.html</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加速器]]></title>
+        <id>https://1998-may2.github.io/post/jia-su-qi/</id>
+        <link href="https://1998-may2.github.io/post/jia-su-qi/">
+        </link>
+        <updated>2022-06-25T03:43:14.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E6%94%AF%E6%8C%81%E5%86%92%E9%99%A9%E5%B2%9B%E6%97%A5%E6%9C%8D%E4%B8%8E%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B314%E6%97%A5%E6%9C%8D">支持冒险岛日服与最终幻想14日服</a>
+<ul>
+<li><a href="#%E6%9C%88%E8%BD%AE%E7%BD%91%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8">月轮网游加速器</a></li>
+<li><a href="#%E7%8E%B2%E7%8F%91%E5%8A%A0%E9%80%9F%E5%99%A8">玲珑加速器</a></li>
+<li><a href="#%E6%B5%B7%E8%B1%9A%E7%BD%91%E6%B8%B8%E5%8A%A0%E9%80%9F%E5%99%A8">海豚网游加速器</a></li>
+</ul>
+</li>
+<li><a href="#%E4%BB%85%E6%94%AF%E6%8C%81%E6%9C%80%E7%BB%88%E5%B9%BB%E6%83%B314%E6%97%A5%E6%9C%8D">仅支持最终幻想14日服</a>
+<ul>
+<li><a href="#%E6%9E%81%E8%BF%85%E4%BA%92%E8%81%94%E5%8A%A0%E9%80%9F%E5%99%A8">极迅互联加速器</a></li>
+<li><a href="#%E7%81%B5%E7%BC%87%E5%8A%A0%E9%80%9F%E5%99%A8">灵缇加速器</a></li>
+<li><a href="#%E5%A5%87%E6%B8%B8%E7%94%B5%E7%AB%9E%E5%8A%A0%E9%80%9F%E5%99%A8">奇游电竞加速器</a></li>
+<li><a href="#8lag%E5%B8%83%E5%8D%A1%E5%8A%A0%E9%80%9F%E5%99%A8">8LAG布卡加速器</a></li>
+<li><a href="#%E9%87%8E%E8%B1%B9%E5%8A%A0%E9%80%9F%E5%99%A8">野豹加速器</a></li>
+</ul>
+</li>
+</ul>
+</p>
+<blockquote>
+<p>仅收集相关游戏，并未进行过游戏加速测试</p>
+</blockquote>
+<h1 id="支持冒险岛日服与最终幻想14日服">支持冒险岛日服与最终幻想14日服</h1>
+<h2 id="月轮网游加速器">月轮网游加速器</h2>
+<p>https://www.yuelun.com/</p>
+<p><code>没用过，因为没有便宜的CDK</code></p>
+<h2 id="玲珑加速器">玲珑加速器</h2>
+<p>https://www.lonlife.pro/</p>
+<p><code>没有CDK</code></p>
+<h2 id="海豚网游加速器">海豚网游加速器</h2>
+<p>https://www.htjsq.com</p>
+<p><code>月卡27，速度还行</code></p>
+<h1 id="仅支持最终幻想14日服">仅支持最终幻想14日服</h1>
+<h2 id="极迅互联加速器">极迅互联加速器</h2>
+<p>http://www.jixunjsq.com/</p>
+<p><code>没有CDK</code></p>
+<h2 id="灵缇加速器">灵缇加速器</h2>
+<p>https://www.lingti.com/</p>
+<p><code>月卡16，没用过</code></p>
+<h2 id="奇游电竞加速器">奇游电竞加速器</h2>
+<p>https://www.qiyou.cn/</p>
+<p><code>月卡39，没用过</code></p>
+<h2 id="8lag布卡加速器">8LAG布卡加速器</h2>
+<p>https://www.buka666.cn/</p>
+<p><code>月卡28，没用过</code></p>
+<h2 id="野豹加速器">野豹加速器</h2>
+<p>https://www.yebaojiasu.com/</p>
+<p><code>月卡16～21，没用过</code></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[山海经异变]]></title>
+        <id>https://1998-may2.github.io/post/shan-hai-jing-yi-bian/</id>
+        <link href="https://1998-may2.github.io/post/shan-hai-jing-yi-bian/">
+        </link>
+        <updated>2022-06-22T10:36:55.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#%E5%88%B7%E8%B4%A1%E7%8C%AE%E5%80%BC%E6%95%99%E7%A8%8B">刷贡献值教程</a></li>
+<li><a href="#%E5%8D%87%E7%BA%A7%E5%BC%82%E5%85%BD%E6%96%B9%E6%B3%95">升级异兽方法</a></li>
+<li><a href="#%E4%B8%80%E7%82%B9%E7%8E%A9%E6%B3%95">一点玩法</a></li>
+<li><a href="#%E5%90%88%E6%88%90%E5%BC%82%E5%85%BD">合成异兽</a></li>
+<li><a href="#%E5%87%8F%E5%B9%BF%E5%91%8A%E6%97%B6%E9%95%BF">减广告时长</a></li>
+</ul>
+</p>
+<p>异兽升到45级，等级可赚60贡献值</p>
+<p>不要点宗门异变！！！</p>
+<h1 id="刷贡献值教程">刷贡献值教程</h1>
+<p>家园添加部落、等级贡献助力</p>
+<ul>
+<li>每天都先进行异变，一直异变，看广告异变直到不能异变为止（异变里面有个幸运值去领取，可看广告增加次数，直到上限为止）</li>
+<li>进行加速，加满×10，是十一个半小时</li>
+<li>进行采补，上限为止，尽可能去偷等级比较高的好友的神兽，这样升级会比较快</li>
+<li>进行孵化，不会看广告，一直分享</li>
+<li>任务需要分享群的时候，在分享页面停留6-8秒再返回就好</li>
+<li>天降鸿福一定要双倍领取，离线也是双倍领取</li>
+<li>抢夺每天可无限抢夺好友资源，一定要抢夺比自己级数高的，兽蛋、桑叶扶桑花、能抢就抢</li>
+<li>“更多福利”每一款游戏玩一分钟会得5贡献值，无需下载、想玩就玩、无所谓</li>
+</ul>
+<h1 id="升级异兽方法">升级异兽方法</h1>
+<ul>
+<li>孵化（随机购买就好，不用指定）</li>
+<li>采补（采补高等级好友的高等级异兽）</li>
+<li>异变（幸运值越高得到的异兽等级越高）</li>
+<li>家园拉蛋（拉蛋得到的是异兽、拉椰子是升级家园的、拉完自己的可以抢好友的）</li>
+</ul>
+<h1 id="一点玩法">一点玩法</h1>
+<p>早期：升级→得贡献值→买花→花花卖钱（有人回收）<br>
+后期：升级家园卖果子</p>
+<h1 id="合成异兽">合成异兽</h1>
+<p>合成异兽看一下下面血条，最后一下合成最高的，触发广告</p>
+<h1 id="减广告时长">减广告时长</h1>
+<p>遇到30秒的广告就点击反馈不感兴趣，下次会推送时间短的广告</p>
+<p>多次反馈会最后只剩下分享（分享不看广告是没有贡献值的，天降鸿福、探索、福袋领不了）</p>
+<p>31级前推荐卡到15秒广告</p>
+<p>异变和加速任务可以卡到只剩下分享</p>
+<p>其他的不建议卡到只剩下分享</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U盘重装系统]]></title>
+        <id>https://1998-may2.github.io/post/u-pan-chong-zhuang-xi-tong/</id>
+        <link href="https://1998-may2.github.io/post/u-pan-chong-zhuang-xi-tong/">
+        </link>
+        <updated>2022-06-22T10:15:53.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p><ul class="markdownIt-TOC">
+<li><a href="#u%E7%9B%98">U盘</a></li>
+<li><a href="#%E6%A0%BC%E5%BC%8F%E5%8C%96u%E7%9B%98">格式化U盘</a></li>
+<li><a href="#%E5%88%B6%E4%BD%9C%E5%AE%89%E8%A3%85u%E7%9B%98">制作安装U盘</a></li>
+<li><a href="#iso%E6%96%87%E4%BB%B6">ISO文件</a></li>
+</ul>
+</p>
+<blockquote>
+<p>参考：<a href="https://www.bilibili.com/video/BV1p541147mF">U盘重装windows10系统 全程录制 保姆级讲解 手把手安装！最详细的win10重装教程！</a></p>
+</blockquote>
+<p>教程选用的PE软件是：Rufus</p>
+<p>ISO可以到MSDN下载</p>
+<h1 id="u盘">U盘</h1>
+<p>选择16GB或32GB的U盘，大品牌的比较好点<code>金士顿、闪迪等</code></p>
+<h1 id="格式化u盘">格式化U盘</h1>
+<p>首先把U盘格式化，记得不要拿存储重要资料的U盘来装系统</p>
+<h1 id="制作安装u盘">制作安装U盘</h1>
+<p>打开<code>Rufus</code>软件，选择下载好的<code>ISO文件</code>，开始制作U盘</p>
+<p><code>开始制作U盘的截图</code></p>
+<figure data-type="image" tabindex="1"><img src="/images/Windows.png" alt="" loading="lazy"></figure>
+<p><code>制作U盘结束了，右下角有制作时长</code></p>
+<figure data-type="image" tabindex="2"><img src="/images/Windows2.png" alt="" loading="lazy"></figure>
+<h1 id="iso文件">ISO文件</h1>
+<blockquote>
+<p>有的PE系统需要自己动手放ISO文件</p>
+</blockquote>
+<p>安装系统的ISO文件可以到msdn下载</p>
+<p>然后放到制作好的U盘里</p>
+]]></content>
+    </entry>
+</feed>
